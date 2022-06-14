@@ -1,4 +1,4 @@
-# sapient-code-assignment
+# code-assignment
 
 Display SpaceX Launch Programs with multiple filters
 
@@ -6,8 +6,8 @@ Display SpaceX Launch Programs with multiple filters
 ### Quick Start
 
 ```shell
-$ git clone https://github.com/vishakhaChaudhary/sapient-code-assignment.git
-$ cd sapient-code-assignment
+$ git clone https://github.com/vishakhaChaudhary/react-code-assignment.git
+$ cd react-code-assignment
 $ git checkout develop
 $ npm install
 $ npm run webpack
